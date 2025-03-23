@@ -29,7 +29,7 @@ Para realizar el análisis y generar las conclusiones, se utilizaron las siguien
 
 Algunas de las principales conclusiones obtenidas del análisis incluyen:
 
-1. **Categorías Populares**: Las aplicaciones en categorías como "Juegos" y "Productividad" fueron las más comunes, y en general, las aplicaciones de estas categorías obtuvieron mejores calificaciones.
+1. **Categorías Populares**: Las aplicaciones en categorías como "Juegos" y "Familiar" fueron las más comunes, y en general, las aplicaciones de estas categorías obtuvieron mejores calificaciones.
    
 2. **Relación entre Tamaño y Calificación**: En general, no se observó una relación directa clara entre el tamaño de la aplicación y su calificación, pero algunas aplicaciones más pequeñas y especializadas lograron mejores valoraciones.
 
